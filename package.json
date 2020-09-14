@@ -1,0 +1,13 @@
+{
+  "name": "zombies-api",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiktor-mazur/zombies-api.git"
+  },
+  "author": "Wiktor Mazur <me@wiktormazur.pl>",
+  "bugs": {
+    "url": "https://github.com/wiktor-mazur/zombies-api/issues"
+  },
+  "homepage": "https://github.com/wiktor-mazur/zombies-api#readme"
+}
